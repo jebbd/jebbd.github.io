@@ -1,0 +1,11 @@
+---
+title: "About"
+description: |
+output: distill::distill_article
+---
+
+I am bioinformatician and data scientist based in Dublin, Ireland. 
+
+During my PhD I studied the evolution and mitochondrial genetics of extreme longevity in bats, before moving on to a postdoc in [Dr. Michael Hiller's lab](https://www.mpi-cbg.de/research-groups/current-groups/michael-hiller/group-members/) at the Centre for Systems Biology in Dresden. In Dresden, I worked on the evolution of gene losses in mammals and on genome annotation for the [Bat1K](https://bat1k.com/) and other projects.
+
+In 2019, I joined the sequencing lab at Genuity Science where my role covers bioinformatics, data science and cloud management.

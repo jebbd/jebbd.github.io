@@ -1,0 +1,13 @@
+name: "jebb_distilled"
+title: "David Jebb"
+description: |
+  David Jebb
+output_dir: "docs"
+theme: jebb.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "author": [],
+      "contents": "\nI am bioinformatician and data scientist based in Dublin, Ireland.\nDuring my PhD I studied the evolution and mitochondrial genetics of extreme longevity in bats, before moving on to a postdoc in Dr. Michael Hiller’s lab at the Centre for Systems Biology in Dresden. In Dresden, I worked on the evolution of gene losses in mammals and on genome annotation for the Bat1K and other projects.\nIn 2019, I joined the sequencing lab at Genuity Science where my role covers bioinformatics, data science and cloud management.\n\n\n\n",
+      "last_modified": "2021-02-17T21:16:58+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "David Jebb",
+      "author": [],
+      "contents": "\n\n          \n          \n          David Jebb\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n          \n            David Jebb\n          \n          \n            \n          \n          \n            I am a bioinformatician and data scientist based in Dublin, Ireland.\n          \n          \n            \n                \n                  \n                    LinkedIn\n                  \n                \n              \n                            \n                \n                  \n                    Publications\n                  \n                \n              \n                            \n                \n                  \n                    Github\n                  \n                \n              \n                            \n                \n                  \n                    Email\n                  \n                \n              \n                          \n        \n      \n    \n\n    \n      \n        \n          \n            \n          \n            David Jebb\n          \n          \n            \n          \n          \n            I am a bioinformatician and data scientist based in Dublin, Ireland.\n          \n        \n      \n      \n          \n              \n                                \n                    \n                    LinkedIn\n                    \n                \n                                \n                    \n                    Publications\n                    \n                \n                                \n                    \n                    Github\n                    \n                \n                                \n                    \n                    Email\n                    \n                \n                              \n          \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-02-17T21:16:58+00:00"
+    }
+  ],
+  "collections": []
+}
