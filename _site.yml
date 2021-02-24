@@ -10,4 +10,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Packages"
+      menu:
+       - text: "eightdegrees"
+         href: "https://jebbd.github.io/eightdegrees/"
 output: distill::distill_article
